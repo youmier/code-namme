@@ -1,0 +1,652 @@
+[
+{
+"id": "coverCard/red/9",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 6
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "wordCard/19",
+"type": "wordCard",
+"data": {
+"word": "SPRING",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 4,
+"y": 3
+}
+},
+{
+"id": "wordCard/23",
+"type": "wordCard",
+"data": {
+"word": "SHEET",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 3,
+"y": 4
+}
+},
+{
+"id": "wordCard/15",
+"type": "wordCard",
+"data": {
+"word": "LION",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 0,
+"y": 3
+}
+},
+{
+"id": "coverCard/red/12",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 1
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "coverCard/red/7",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 8
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "coverCard/gray/5",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 4
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "wordCard/13",
+"type": "wordCard",
+"data": {
+"word": "KICK",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 3,
+"y": 2
+}
+},
+{
+"id": "wordCard/4",
+"type": "wordCard",
+"data": {
+"word": "AMAZON",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 4,
+"y": 0
+}
+},
+{
+"id": "wordCard/12",
+"type": "wordCard",
+"data": {
+"word": "GLACIER",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 2,
+"y": 2
+}
+},
+{
+"id": "wordCard/24",
+"type": "wordCard",
+"data": {
+"word": "WASHINGTON",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 4,
+"y": 4
+}
+},
+{
+"id": "wordCard/1",
+"type": "wordCard",
+"data": {
+"word": "PLATE",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 1,
+"y": 0
+}
+},
+{
+"id": "wordCard/21",
+"type": "wordCard",
+"data": {
+"word": "FOOT",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 1,
+"y": 4
+}
+},
+{
+"id": "wordCard/20",
+"type": "wordCard",
+"data": {
+"word": "JUPITER",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 0,
+"y": 4
+}
+},
+{
+"id": "coverCard/red/23",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 5
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "coverCard/gray/4",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 2
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "wordCard/6",
+"type": "wordCard",
+"data": {
+"word": "MAP",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 1,
+"y": 1
+}
+},
+{
+"id": "wordCard/14",
+"type": "wordCard",
+"data": {
+"word": "SINK",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 4,
+"y": 2
+}
+},
+{
+"id": "coverCard/gray/10",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 1
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "coverCard/red/0",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 9
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "wordCard/22",
+"type": "wordCard",
+"data": {
+"word": "CAST",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 2,
+"y": 4
+}
+},
+{
+"id": "coverCard/blue/16",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 9
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "coverCard/red/17",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 2
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "coverCard/blue/15",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 7
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "wordCard/17",
+"type": "wordCard",
+"data": {
+"word": "BELT",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 2,
+"y": 3
+}
+},
+{
+"id": "coverCard/gray/3",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 6
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "coverCard/red/22",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 4
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "coverCard/blue/18",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 4
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "coverCard/red/13",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 7
+},
+"location": {
+"name": "redDeck"
+}
+},
+{
+"id": "wordCard/8",
+"type": "wordCard",
+"data": {
+"word": "TUBE",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 3,
+"y": 1
+}
+},
+{
+"id": "coverCard/blue/6",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 5
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "wordCard/16",
+"type": "wordCard",
+"data": {
+"word": "MONKEY",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 1,
+"y": 3
+}
+},
+{
+"id": "coverCard/blue/21",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 1
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "wordCard/10",
+"type": "wordCard",
+"data": {
+"word": "PLATYPUS",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 0,
+"y": 2
+}
+},
+{
+"id": "wordCard/18",
+"type": "wordCard",
+"data": {
+"word": "HOLLYWOOD",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 3,
+"y": 3
+}
+},
+{
+"id": "coverCard/gray/20",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 3
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "wordCard/7",
+"type": "wordCard",
+"data": {
+"word": "CHRISTMAS",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 2,
+"y": 1
+}
+},
+{
+"id": "wordCard/9",
+"type": "wordCard",
+"data": {
+"word": "FLOOD",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 4,
+"y": 1
+}
+},
+{
+"id": "coverCard/gray/24",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 3
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "wordCard/0",
+"type": "wordCard",
+"data": {
+"word": "SKATES",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 0,
+"y": 0
+}
+},
+{
+"id": "coverCard/gray/19",
+"type": "coverCard",
+"data": {
+"color": "gray",
+"img": 5
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "coverCard/blue/8",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 8
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "coverCard/black/11",
+"type": "coverCard",
+"data": {
+"color": "black",
+"img": 1
+},
+"location": {
+"name": "offscreenDeck"
+}
+},
+{
+"id": "coverCard/blue/2",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 3
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "wordCard/2",
+"type": "wordCard",
+"data": {
+"word": "CAMP",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 2,
+"y": 0
+}
+},
+{
+"id": "wordCard/5",
+"type": "wordCard",
+"data": {
+"word": "MASS",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 0,
+"y": 1
+}
+},
+{
+"id": "wordCard/11",
+"type": "wordCard",
+"data": {
+"word": "STAMP",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 1,
+"y": 2
+}
+},
+{
+"id": "coverCard/blue/1",
+"type": "coverCard",
+"data": {
+"color": "blue",
+"img": 2
+},
+"location": {
+"name": "blueDeck"
+}
+},
+{
+"id": "wordCard/3",
+"type": "wordCard",
+"data": {
+"word": "BRIDGE",
+"revealed": false,
+"selected": false,
+"tips": []
+},
+"location": {
+"name": "board",
+"x": 3,
+"y": 0
+}
+},
+{
+"id": "coverCard/red/14",
+"type": "coverCard",
+"data": {
+"color": "red",
+"img": 3
+},
+"location": {
+"name": "redDeck"
+}
+}
+]
